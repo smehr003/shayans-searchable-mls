@@ -118,6 +118,6 @@ app.get('/process_get', function (req, res) {
         res.end();
 });
 
-var server = app.listen(8081, function () {
-    console.log("Server set up; Listening...")
+var server = app.listen(process.env.PORT || 8080, function () {
+    console.log("Server set up; Listening...");
 });
