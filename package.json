@@ -1,0 +1,8 @@
+{
+	"name": "shayans-searchable-mls",
+	"description": "a searchable mls service",
+	"version": "1.0.0",
+	"engines": {
+		"node": "4.4.5"
+	}
+}
