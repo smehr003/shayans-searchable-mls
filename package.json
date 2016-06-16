@@ -7,6 +7,8 @@
 		"npm": "2.15.5"
 	},
 	"dependencies": {
-		"express": "4.13.4"
+		"express": "4.13.4",
+		"request": "2.72.0",
+		"events": "1.1.0"
 	}
 }
