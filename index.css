@@ -1,0 +1,35 @@
+body {
+    background-color: #7777EE;
+    font-family: verdana;
+    color: #DED;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+table {
+    border-spacing: 10px;
+}
+
+#tbox {
+    font-size: 18pt;
+    margin-left: 400px;
+    width: 400px;
+}
+
+#sbutton {
+    font-size: 18pt;
+}
+
+#gap {
+    height: 25px;
+}
